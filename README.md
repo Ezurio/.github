@@ -1,29 +1,18 @@
 # Release-Packages
-Ezurio Solutions Release Packages:
-
-For 60 SOM Releases, Please Visit:
+For 60 SOM Releases, please visit:
 <https://github.com/Ezurio/SOM60-Release-Packages>
 
-For SummitSOM Releases, Please Visit:
+For SummitSOM Releases, please visit:
 <https://github.com/Ezurio/Summit-SOM-Release-Packages>
 
-For IG60 Releases, Please Visit:
+For IG60 Releases, please visit:
 <https://github.com/Ezurio/IG60-Summit-Linux-Release-Packages>
 
-For 60 Releases, Please Visit:
-<https://github.com/Ezurio/Sterling-60-Release-Packages/releases>
+For 60 Series, Sona IF, Sona NX, Sona TI, Sterling LWB/LWB+/LWB5+ and BD-SDMAC Releases, please visit:
+<https://github.com/Ezurio/Connectivity_Stack_Release_Packages/releases>
 
-For SonaIF and Sterling LWBx Releases, Please Visit:
-<https://github.com/Ezurio/SonaIF-Release-Packages/releases>
-
-For Yocto layer to integrate our radio module releases, Please Visit:
+For a Yocto layer to integrate our radio module releases, please visit:
 <https://github.com/Ezurio/meta-summit-radio>
 
-For Buildroot external to integrate our radio module releases, Please Visit:
+For a Buildroot external to integrate our radio module releases, please visit:
 <https://github.com/Ezurio/summit-radio-external>
-
-For BD-SDMAC Releases, Please Visit:
-<https://github.com/Ezurio/BDSDMAC-Release-Packages>
-
-For WB45 and WB50 Releases, Please Visit:
-<https://github.com/LairdCP/wb-manifests>
