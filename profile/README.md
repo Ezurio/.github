@@ -1,7 +1,7 @@
 # Ezurio Public Software releases  
 
 ### Wi-Fi Radio Integration
-[meta-summit-radio](https://github.com/Ezurio/meta-summit-radio) - Yocto based SOM Release Packages and Manifests  
+[meta-summit-radio](https://github.com/Ezurio/meta-summit-radio) - Yocto/OE layer for integrating Ezurio Wi-Fi radio modules. 
 [summit-radio-external](https://github.com/Ezurio/summit-radio-external) - Buildroot external for integrating Ezurio Wi-Fi radio modules  
 [Connectivity_Stack_Release_Packages](https://github.com/Ezurio/Connectivity_Stack_Release_Packages/releases) - Connectivity Stack release packages for all Ezurio radio modules  
   
