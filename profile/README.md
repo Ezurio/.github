@@ -10,5 +10,5 @@
 [Summit-SOM-Yocto-Release-Packages](https://github.com/Ezurio/Summit-SOM-Yocto-Release-Packages) - Yocto based SOM Release Packages and Manifests  
   
 ### 60 Series SOM Releases  
-[SOM60-Release-Packages](https://github.com/Ezurio/SOM60-Release-Packages) - SOM60 Buildroot Releases  
-[IG60-Summit-Linux-Release-Packages](https://github.com/Ezurio/IG60-Summit-Linux-Release-Packages) - IG60 Summit Linux Release packages  
+[SOM60-Release-Packages](https://github.com/Ezurio/SOM60-Release-Packages) - SOM60 Buildroot Releases Packages and Manifests   
+[IG60-Summit-Linux-Release-Packages](https://github.com/Ezurio/IG60-Summit-Linux-Release-Packages) - IG60 Summit Linux Release Packages and Manifests  
