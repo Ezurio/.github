@@ -53,16 +53,6 @@
 <tr>
 <td width="50%" valign="top" align="center">
  
-### [SOM60 Release Packages](https://github.com/Ezurio/SOM60-Release-Packages)
- 
-*Release packages for SOM60 modules*<br>&nbsp;
- 
----
- 
-**For 60 SOM Releases** 
-</td>
-<td width="50%" valign="top" align="center">
- 
 ### [Connectivity Stack Release Packages](https://github.com/Ezurio/Connectivity_Stack_Release_Packages)
  
 *Connectivity Stack release packages for all Ezurio radio modules*
