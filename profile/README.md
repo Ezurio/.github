@@ -22,7 +22,7 @@
  
 ---
  
-**For EZ BSP Buildroot Releases**
+**For Buildroot based SOM Release Packages**
  
 </td>
 </tr>
