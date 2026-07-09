@@ -16,7 +16,7 @@
 
 <td width="50%" align="center">
  
-### [EZ BSP Buildroot Release Packages](https://github.com/Ezurio/Summit-SOM-Buildroot-Release-Packages)
+### [EZ BSP Buildroot Release Packages](https://github.com/Ezurio/EZ-BSP-Buildroot-Release-Packages)
  
 *Buildroot based SOM Release Packages and Manifests*
  
@@ -40,7 +40,7 @@
 </td>
 <td width="50%" align="center">
  
-### [EZ BSP Yocto Release Packages](https://github.com/Ezurio/Summit-SOM-Yocto-Release-Packages)
+### [EZ BSP Yocto Release Packages](https://github.com/Ezurio/EZ-BSP-Yocto-Release-Packages)
  
 *Yocto based SOM release packages and manifests*
   
